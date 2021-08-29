@@ -1,0 +1,19 @@
+body{
+  background-color: #B5FFD9;
+}
+hr{
+  background-color: blue;
+  height: 2px;
+}
+img{
+  height: 300px;
+}
+h1{
+  color: #3DB2FF;
+}
+h3{
+  color: #3DB2FF;
+}
+header{
+  background-image: url('../images/wal.jpg');
+}
